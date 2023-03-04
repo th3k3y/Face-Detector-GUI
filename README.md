@@ -1,6 +1,7 @@
 <p align="center">
-  ![Image Name](https://i.ibb.co/dcrL02G/Capture.png)
+  <img src="https://i.ibb.co/dcrL02G/Capture.png">
 </p>
+
 
 
 # Face Detection GUI
