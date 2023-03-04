@@ -25,7 +25,7 @@ To start the application, run the following command:
 
 python Detector.py
 
-The application window will appear, allowing you to import an image by clicking on the "Import Image" button. Once you have imported an image, you can click on the "Analyze" button to analyze the image for the presence of a face. If a face is detected, the image will be displayed on the canvas with the face centered. If a face is not detected, a message will be displayed indicating that no face was found.
+The application window will appear, allowing you to import an image by clicking on the "Import Image" button. Once you have imported an image, you can click on the "Analyze" button to analyze the image for the presence of a face. If a face is detected, the application will display a message indicating that a face was found. If a face is not detected, the application will display a message indicating that no face was found.
 
 ## Contributing
 
