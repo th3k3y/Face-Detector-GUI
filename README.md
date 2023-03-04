@@ -1,3 +1,6 @@
+![Image Name](https://i.ibb.co/dcrL02G/Capture.png)
+
+
 # Face Detection GUI
 
 This is a simple GUI application that allows the user to import an image and analyze whether it contains a face or not. The application is built using the tkinter library for the graphical user interface and the OpenCV library for face detection.
